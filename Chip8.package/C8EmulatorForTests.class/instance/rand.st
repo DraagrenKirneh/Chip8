@@ -1,0 +1,4 @@
+emulation
+rand
+
+	^ random

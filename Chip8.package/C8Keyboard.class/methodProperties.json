@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"isKeyDownAt:" : "HenrikNergaard 11/20/2016 21:23",
+		"initialize" : "HenrikNergaard 4/13/2017 11:57",
+		"keyDown:" : "HenrikNergaard 4/13/2017 11:57",
+		"quertyMapping" : "HenrikNergaard 11/20/2016 23:39",
+		"clear" : "HenrikNergaard 4/13/2017 11:58",
+		"defaultKeyMapping" : "HenrikNergaard 11/18/2016 20:42",
+		"keyUp:" : "HenrikNergaard 4/13/2017 11:57"
+	},
+	"class" : { }
+}

@@ -1,0 +1,4 @@
+initialization
+defaultKeyMapping
+
+	^ self quertyMapping

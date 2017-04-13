@@ -1,0 +1,4 @@
+emulation
+playSound
+
+	"Beeper primitiveBeep "

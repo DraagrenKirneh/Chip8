@@ -1,0 +1,1 @@
+Extended C8Emulator class for more variable access, and utility methods for simpler testing

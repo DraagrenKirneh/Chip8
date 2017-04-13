@@ -1,0 +1,4 @@
+operations
+clearScreen
+
+	self setDrawFlag

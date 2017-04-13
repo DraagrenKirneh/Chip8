@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "HenrikNergaard 4/13/2017 11:43",
+	"super" : "Object",
+	"category" : "Chip8",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"keymap"
+	],
+	"name" : "C8Keyboard",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"clearRedraw" : "HenrikNergaard 11/20/2016 12:55",
+		"clearScreen" : "HenrikNergaard 11/20/2016 21:32",
+		"collision" : "HenrikNergaard 11/19/2016 21:31",
+		"initialize" : "HenrikNergaard 11/19/2016 21:32",
+		"setDrawFlag" : "HenrikNergaard 11/19/2016 21:31",
+		"redraw" : "HenrikNergaard 11/20/2016 23:12",
+		"drawByte:at:" : "HenrikNergaard 11/20/2016 22:57",
+		"asForm" : "HenrikNergaard 11/19/2016 21:31"
+	},
+	"class" : { }
+}

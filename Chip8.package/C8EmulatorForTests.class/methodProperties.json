@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"memory" : "HenrikNergaard 11/17/2016 20:38",
+		"delayTimer" : "HenrikNergaard 11/17/2016 20:37",
+		"programCounter" : "HenrikNergaard 11/17/2016 20:44",
+		"rand" : "HenrikNergaard 11/17/2016 22:40",
+		"setKeyboardStateTo:" : "HenrikNergaard 11/20/2016 19:53",
+		"delayTimer:" : "HenrikNergaard 11/17/2016 23:37",
+		"initialize" : "HenrikNergaard 11/17/2016 22:40",
+		"handleUnknownOpcode" : "HenrikNergaard 11/18/2016 17:04",
+		"doOpcode:" : "HenrikNergaard 11/20/2016 20:00",
+		"_loadFontSet" : "HenrikNergaard 11/17/2016 20:38",
+		"memoryPointer:" : "HenrikNergaard 11/17/2016 20:38",
+		"memoryPointer" : "HenrikNergaard 11/17/2016 20:38",
+		"dataRegister" : "HenrikNergaard 11/17/2016 20:37",
+		"registerF" : "HenrikNergaard 11/17/2016 21:40",
+		"setNextRandom:" : "HenrikNergaard 11/17/2016 22:40",
+		"loadFontSet" : "HenrikNergaard 4/13/2017 12:01",
+		"soundTimer" : "HenrikNergaard 4/13/2017 12:01",
+		"stack" : "HenrikNergaard 11/18/2016 19:13"
+	},
+	"class" : { }
+}

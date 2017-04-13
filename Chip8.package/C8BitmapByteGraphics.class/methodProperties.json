@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"byteAt:xorDraw:" : "HenrikNergaard 11/20/2016 23:30",
+		"clearScreen" : "HenrikNergaard 11/20/2016 23:11",
+		"byteIndexFor:" : "HenrikNergaard 11/20/2016 23:07",
+		"drawSplitByte:at:" : "HenrikNergaard 11/20/2016 23:37",
+		"initialize" : "HenrikNergaard 4/13/2017 11:59",
+		"drawByte:at:" : "HenrikNergaard 11/20/2016 23:07",
+		"asForm" : "HenrikNergaard 11/20/2016 23:11"
+	},
+	"class" : { }
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 11/20/2016 23:36",
+	"super" : "C8Graphics",
+	"category" : "Chip8",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bitmap"
+	],
+	"name" : "C8BitmapByteGraphics",
+	"type" : "normal"
+}

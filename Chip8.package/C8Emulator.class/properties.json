@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "HenrikNergaard 11/20/2016 23:45",
+	"super" : "Object",
+	"category" : "Chip8",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"display",
+		"pc",
+		"opcode",
+		"stack",
+		"memory",
+		"delayTimer",
+		"soundTimer",
+		"random",
+		"memoryPointer",
+		"dataRegister",
+		"keyboard"
+	],
+	"name" : "C8Emulator",
+	"type" : "normal"
+}

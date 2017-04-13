@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "HenrikNergaard 11/20/2016 23:15",
+	"super" : "Morph",
+	"category" : "Chip8-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"chip",
+		"colorMap",
+		"running",
+		"ips"
+	],
+	"name" : "C8Morph",
+	"type" : "normal"
+}

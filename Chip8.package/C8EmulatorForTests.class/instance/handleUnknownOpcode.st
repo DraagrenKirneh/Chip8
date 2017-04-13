@@ -1,0 +1,4 @@
+emulation
+handleUnknownOpcode
+
+	self error

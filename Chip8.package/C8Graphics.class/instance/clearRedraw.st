@@ -1,0 +1,4 @@
+operations
+clearRedraw
+
+	redraw := false

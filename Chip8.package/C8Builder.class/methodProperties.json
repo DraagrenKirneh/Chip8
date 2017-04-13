@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"regDump:" : "HenrikNergaard 11/20/2016 11:51",
+		"call:" : "HenrikNergaard 4/13/2017 11:40",
+		"regX:equalsRegY:" : "HenrikNergaard 11/19/2016 17:42",
+		"setRegX:to:" : "HenrikNergaard 11/19/2016 17:42",
+		"goto:" : "HenrikNergaard 11/20/2016 19:44",
+		"add:toRegX:" : "HenrikNergaard 11/19/2016 17:42",
+		"initialize" : "HenrikNergaard 11/19/2016 17:44",
+		"addToMemPtr:" : "HenrikNergaard 11/20/2016 11:49",
+		"setRegX:toRegY:" : "HenrikNergaard 11/19/2016 17:43",
+		"subRegY:fromRegX:" : "HenrikNergaard 11/19/2016 17:43",
+		"return" : "HenrikNergaard 11/19/2016 17:42",
+		"stream" : "HenrikNergaard 11/19/2016 17:40",
+		"regX:equals:" : "HenrikNergaard 11/19/2016 17:42",
+		"regX:notEqual:" : "HenrikNergaard 11/19/2016 17:42"
+	},
+	"class" : {
+		"build:" : "HenrikNergaard 11/19/2016 17:41"
+	}
+}

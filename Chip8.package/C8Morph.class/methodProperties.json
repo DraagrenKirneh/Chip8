@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"primaryColor:" : "HenrikNergaard 11/20/2016 19:26",
+		"disabledColor:" : "HenrikNergaard 11/20/2016 19:26",
+		"initialize" : "HenrikNergaard 11/20/2016 23:13",
+		"keyUp:" : "HenrikNergaard 11/20/2016 23:58",
+		"mouseDown:" : "HenrikNergaard 11/20/2016 19:18",
+		"handlesMouseDown:" : "HenrikNergaard 11/20/2016 19:17",
+		"drawOn:" : "HenrikNergaard 11/20/2016 19:28",
+		"clearKeyboardState" : "HenrikNergaard 11/20/2016 21:16",
+		"secondaryColor:" : "HenrikNergaard 11/20/2016 19:26",
+		"wantsSteps" : "HenrikNergaard 11/20/2016 19:30",
+		"grayAndBlack" : "HenrikNergaard 11/20/2016 19:08",
+		"stepTime" : "HenrikNergaard 11/18/2016 23:43",
+		"chip:" : "HenrikNergaard 11/19/2016 12:55",
+		"stepAt:" : "HenrikNergaard 11/20/2016 23:13",
+		"defaultColor" : "HenrikNergaard 11/20/2016 19:21",
+		"instructionsPerStep:" : "HenrikNergaard 11/20/2016 23:13",
+		"keyboardFocusChange:" : "HenrikNergaard 11/20/2016 21:15",
+		"keyDown:" : "HenrikNergaard 11/20/2016 23:58",
+		"handlesKeyboard:" : "HenrikNergaard 11/20/2016 19:13"
+	},
+	"class" : {
+		"example" : "HenrikNergaard 11/20/2016 23:48"
+	}
+}

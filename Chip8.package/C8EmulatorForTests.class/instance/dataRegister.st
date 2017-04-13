@@ -1,0 +1,3 @@
+accessing
+dataRegister 
+	^ dataRegister

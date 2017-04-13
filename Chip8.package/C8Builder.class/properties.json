@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 4/13/2017 11:43",
+	"super" : "Object",
+	"category" : "Chip8-Testing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "C8Builder",
+	"type" : "normal"
+}

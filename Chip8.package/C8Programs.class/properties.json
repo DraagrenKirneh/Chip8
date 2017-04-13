@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 11/20/2016 23:41",
+	"super" : "Object",
+	"category" : "Chip8",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Repository"
+	],
+	"instvars" : [ ],
+	"name" : "C8Programs",
+	"type" : "normal"
+}

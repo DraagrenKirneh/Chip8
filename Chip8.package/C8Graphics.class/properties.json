@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "HenrikNergaard 11/20/2016 23:36",
+	"super" : "Object",
+	"category" : "Chip8",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"redraw",
+		"collision"
+	],
+	"name" : "C8Graphics",
+	"type" : "normal"
+}
